@@ -1,0 +1,8 @@
+sysmon에서 특정지을 수 있는 로그를 남길 수 있는지 보지는 않았다. 
+
+그러면 일단 할일이 
+1. vm에 리눅스 환경 설치(우분투인가?)
+2. 거기에다가 docker를 설치하고 wazuh를 설치해야한다. 
+
+vm 리눅스 - docker 및 wazuh server 설치
+vm 윈도우 - wazuh agent 설치 및 리눅스 server ip로 ip 설정
