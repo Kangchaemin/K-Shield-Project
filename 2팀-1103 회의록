@@ -1,0 +1,15 @@
+룰 작성과 관련된 본인이 맡은 부분의 특징점들 조사하여 내일 바로 룰 작성이 가능하도록 정리 부탁드립니다!
+
+
+키보드 레이아웃 탐지 시 사용하는 레지스트리
+
+HKLM\SYSTEM\CurrentControlSet\Control\Nls\Language
+HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts
+HKU\.DEFAULT\Keyboard Layout\Preload
+
+
+볼륨 섀도우 복사본 삭제
+vssadmin.exe delete shadows /all /quiet
+
+
+룰 작성과 관련된 본인이 맡은 부분의 특징점들 조사하여 내일 바로 룰 작성이 가능하도록 정리 부탁드립니다!
